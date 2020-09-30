@@ -1,0 +1,25 @@
+.App {
+  padding: 1rem;
+  color: white;
+  background-color: black;
+  text-align: center;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: scroll;
+}
+
+.header{
+  display: inline-block;
+  background-color: rgba(0,0,0,0.5);
+  padding: 15px;
+}
+
+.sourceLink{
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  padding: 15px;
+  bottom: 0;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 2%;
+}
