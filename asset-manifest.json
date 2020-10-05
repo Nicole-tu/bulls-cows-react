@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/bulls-and-cows/static/css/main.20f1330d.chunk.css",
-    "main.js": "/bulls-and-cows/static/js/main.63e71a66.chunk.js",
-    "main.js.map": "/bulls-and-cows/static/js/main.63e71a66.chunk.js.map",
-    "runtime-main.js": "/bulls-and-cows/static/js/runtime-main.98a209de.js",
-    "runtime-main.js.map": "/bulls-and-cows/static/js/runtime-main.98a209de.js.map",
-    "static/css/2.f3bc2cb0.chunk.css": "/bulls-and-cows/static/css/2.f3bc2cb0.chunk.css",
-    "static/js/2.8695d53b.chunk.js": "/bulls-and-cows/static/js/2.8695d53b.chunk.js",
-    "static/js/2.8695d53b.chunk.js.map": "/bulls-and-cows/static/js/2.8695d53b.chunk.js.map",
-    "index.html": "/bulls-and-cows/index.html",
-    "precache-manifest.9d058e2bf365a3a0c4d6b2cdc0a93e49.js": "/bulls-and-cows/precache-manifest.9d058e2bf365a3a0c4d6b2cdc0a93e49.js",
-    "service-worker.js": "/bulls-and-cows/service-worker.js",
-    "static/css/2.f3bc2cb0.chunk.css.map": "/bulls-and-cows/static/css/2.f3bc2cb0.chunk.css.map",
-    "static/css/main.20f1330d.chunk.css.map": "/bulls-and-cows/static/css/main.20f1330d.chunk.css.map",
-    "static/js/2.8695d53b.chunk.js.LICENSE.txt": "/bulls-and-cows/static/js/2.8695d53b.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/bulls-and-cows/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/bulls-cows-react/static/css/main.20f1330d.chunk.css",
+    "main.js": "/bulls-cows-react/static/js/main.db3c9463.chunk.js",
+    "main.js.map": "/bulls-cows-react/static/js/main.db3c9463.chunk.js.map",
+    "runtime-main.js": "/bulls-cows-react/static/js/runtime-main.9fe46b79.js",
+    "runtime-main.js.map": "/bulls-cows-react/static/js/runtime-main.9fe46b79.js.map",
+    "static/css/2.967efb13.chunk.css": "/bulls-cows-react/static/css/2.967efb13.chunk.css",
+    "static/js/2.8695d53b.chunk.js": "/bulls-cows-react/static/js/2.8695d53b.chunk.js",
+    "static/js/2.8695d53b.chunk.js.map": "/bulls-cows-react/static/js/2.8695d53b.chunk.js.map",
+    "index.html": "/bulls-cows-react/index.html",
+    "precache-manifest.63e936aad6799f4b3d67f1db299d6b5e.js": "/bulls-cows-react/precache-manifest.63e936aad6799f4b3d67f1db299d6b5e.js",
+    "service-worker.js": "/bulls-cows-react/service-worker.js",
+    "static/css/2.967efb13.chunk.css.map": "/bulls-cows-react/static/css/2.967efb13.chunk.css.map",
+    "static/css/main.20f1330d.chunk.css.map": "/bulls-cows-react/static/css/main.20f1330d.chunk.css.map",
+    "static/js/2.8695d53b.chunk.js.LICENSE.txt": "/bulls-cows-react/static/js/2.8695d53b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/bulls-cows-react/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.98a209de.js",
-    "static/css/2.f3bc2cb0.chunk.css",
+    "static/js/runtime-main.9fe46b79.js",
+    "static/css/2.967efb13.chunk.css",
     "static/js/2.8695d53b.chunk.js",
     "static/css/main.20f1330d.chunk.css",
-    "static/js/main.63e71a66.chunk.js"
+    "static/js/main.db3c9463.chunk.js"
   ]
 }
