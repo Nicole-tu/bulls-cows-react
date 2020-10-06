@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Bulls and Cows
+
+This application was build by [React](https://reactjs.org/) and based on [Semantic UI React](https://react.semantic-ui.com/) .
+
+You can play this [Game](https://nicole-tu.github.io/bulls-cows-react/) on both mobile and computer.
+
+## Demo
+![Watch the demo](https://github.com/Nicole-tu/bulls-cows-react/blob/master/demo/demo_vedio.gif)
 
 ## Available Scripts
 
